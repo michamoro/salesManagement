@@ -1,1 +1,3 @@
 # salesManagement
+
+Just practicing some programming...
